@@ -1,0 +1,17 @@
+{
+  "status":200,
+  "result":{
+    "index":0,
+	"indexData":{
+      "loginInfo":[
+          {"user":"lxf"},
+          {"password":"1297"}
+      ],
+      "head":[
+        {"id": "01", "value":"北京1"},
+        {"id": "01", "value":"北京2"},
+        {"id": "01", "value":"北京2"}
+      ]
+    }
+  }
+}
