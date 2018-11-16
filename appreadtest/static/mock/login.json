@@ -1,0 +1,10 @@
+{
+    "ret": true,
+    "data": {
+      "auth": {
+        "addmin": "admin",
+        "password": "123"
+      }
+    }
+}
+  
